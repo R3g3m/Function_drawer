@@ -1,0 +1,21 @@
+﻿  stdafx.cpp
+  BusinessLogic.cpp
+d:\курсач\functiondrawer\functiondrawer\businesslogic.cpp(75): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\курсач\functiondrawer\functiondrawer\businesslogic.cpp(76): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\курсач\functiondrawer\functiondrawer\businesslogic.cpp(77): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\курсач\functiondrawer\functiondrawer\businesslogic.cpp(78): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\курсач\functiondrawer\functiondrawer\businesslogic.cpp(92): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\курсач\functiondrawer\functiondrawer\businesslogic.cpp(93): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\курсач\functiondrawer\functiondrawer\businesslogic.cpp(35): warning C4101: pstr: неиспользованная локальная переменная
+  Создание кода...
+  Компиляция...
+  FunctionDrawer.cpp
+  Создание кода...
+  Создание не-SAFESEH образа.
+  Запуск 2-го прохода
+       stdafx.obj
+       FunctionDrawer.obj
+       BusinessLogic.obj
+       MSVCRTD.lib(loadcfg.obj)
+  2-ой проход завершен
+  FunctionDrawer.vcxproj -> D:\Курсач\FunctionDrawer\Debug\FunctionDrawer.exe
